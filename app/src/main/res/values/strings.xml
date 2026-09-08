@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuideLens AI</string>
+    <string name="accessibility_service_description">GuideLens AI ekran bo\'yicha real-vaqt rejimida qadam-baqadam ko\'rsatma va yordam berish uchun Accessibility xizmatidan foydalanadi.</string>
+</resources>

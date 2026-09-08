@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.guidelens.ai.app-mergeDebugResources-48:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/abdurashid/.gradle/caches/transforms-3/52b60c2145bb13b42c7a74afcb59dbe8/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

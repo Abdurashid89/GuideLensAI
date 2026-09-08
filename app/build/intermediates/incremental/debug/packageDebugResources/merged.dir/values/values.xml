@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">GuideLens AI ekran bo\'yicha real-vaqt rejimida qadam-baqadam ko\'rsatma va yordam berish uchun Accessibility xizmatidan foydalanadi.</string>
+    <string name="app_name">GuideLens AI</string>
+    <style name="Theme.GuideLensAI" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0F172A</item>
+        <item name="android:windowBackground">#0F172A</item>
+    </style>
+</resources>
